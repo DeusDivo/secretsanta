@@ -3,7 +3,7 @@ import random
 import logging
 
 # Вставьте токен вашего бота
-BOT_TOKEN = '7699946538:AAGKT7399r3jLriBNlxJtQir2KdmAxrbEi8'
+BOT_TOKEN = ''
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Словарь для участников (id пользователя: имя)
